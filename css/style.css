@@ -1,0 +1,57 @@
+
+.title{
+	margin-top: 10px;
+	font-size:30px;
+	text-align: center;
+}
+.text{
+	color: #555;
+}
+.container label{
+	text-align: center;
+}
+h5{
+	text-align: center;
+	color: #555;
+}
+.img1{
+	margin-top: 30px;
+	width: 500px;
+	height: 400px;
+}
+.img{
+	width: 100%;
+	height: 100%;
+}
+.text1{
+	margin-top: 50px;
+}
+.container pre{
+	text-align: center;
+	margin-top: 20px;
+}
+.img2{
+	width: 100%;
+	height: 80%;
+}
+.btn{
+	margin-left: 40%;
+}
+.container .btn{
+	background-color: black;
+	color: white;
+	padding: 6px 4px 6px 4px;
+	margin-left: 50%;
+}
+.jumbotron .btn{
+	background-color: black;
+	color: white;
+	margin-left: 40%;
+}
+.jumbotron svg{	
+	width: 30px;
+	height: 30px;
+	padding-left: 10px;
+	transform: translateX(-30%);
+
+}
